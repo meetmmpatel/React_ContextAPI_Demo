@@ -1,4 +1,7 @@
 .App {
 	text-align: left;
 	font-family: "Karla", sans-serif;
+	margin: 10px;
+	padding: 20px;
+	background-color: lightgray;
 }

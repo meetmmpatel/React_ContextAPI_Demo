@@ -1,13 +1,18 @@
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import ListOfTechnology from "./Components/ListOfTechnology";
+import Header from "./Components/Header";
+import { TechProvider } from "./Components/TechContext";
 
 function App() {
 	return (
-		<div className="App">
-			<h1 className="display-5 ">This is react sample template</h1>
-			<p className="lead">Please modify and check configuration before use</p>
-		</div>
+		<TechProvider>
+			<div className="App">
+				<Header></Header>
+				<ListOfTechnology></ListOfTechnology>
+			</div>
+		</TechProvider>
 	);
 }
 

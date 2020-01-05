@@ -1,30 +1,17 @@
 ## Project Name & Pitch
 
-#### Example:
-
-TweetWorld
-
-An application used to filter data form some database on user preference, built with React, Redux, JavaScript, and CSS.
+ Project is to show the use case of  how the Context API helps us to manage state without lifting up the state or prop drilling 
 
 ## Project Status
+Done
 
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
 
 ## Project Screen Shot(s)
+TBD
 
-#### Example:
 
-[ PRETEND SCREEN SHOT IS HERE ]
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
-## Installation and Setup Instructions
-
-#### Example:
+# Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
